@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": " meow-kUZN.aternos.me:48339",
+    "ip": "meow-kUZN.aternos.me",
     "port": 48339,
     "version": "",
     "try-creative": false
